@@ -1,0 +1,3 @@
+-- Version 1.0
+
+-- Voyage DOES NOT Auto Update, so keep an close eye ;)
